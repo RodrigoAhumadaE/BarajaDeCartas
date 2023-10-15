@@ -9,7 +9,7 @@ class Jugador{
   }
 
   // Dale al Jugador una propiedad de mano que sea una Lista de tipo Carta.​
-  private List<Carta> Mano = new List<Carta>();
+  private List<Carta> Mano;
   public List<Carta> _Mano{
     get{ return Mano; }
   }
@@ -17,6 +17,7 @@ class Jugador{
   // constructor
   public Jugador(string nombre){
     Nombre = nombre;
+    Mano = new List<Carta>();
   }
 
   /* Dale al Jugador un método de robo en el que roba una carta de la baraja, se añada a la mano del jugador, y devuelve la Carta.

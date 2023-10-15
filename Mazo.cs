@@ -1,6 +1,4 @@
 // Crea una clase llamada "Mazo"​
-using System.Formats.Asn1;
-
 class Mazo{
   // Dale a la clase Mazo una propiedad llamada "cartas" que es una lista de objetos de Carta.​
   private List<Carta> Cartas = new List<Carta>();
@@ -30,9 +28,8 @@ class Mazo{
   // Crea métodos en "Mazo"​
   // Dale al Mazo un método de reparto que seleccione la carta "más alta", la elimine de la lista, y la devuelva.​
   public Carta Repartir(){
-    int indice = Cartas.Count() - 1;
-    Carta carta = Cartas[indice];
-    Cartas.RemoveAt(indice);
+    Carta carta = Cartas[0];
+    Cartas.RemoveAt(0);
     return carta;
   }
 
