@@ -1,0 +1,15 @@
+D:\Rodrigo\Bootcamp Sonda\C#-.Net\practicas\C#.Net\BarajaDeCartas\bin\Debug\net6.0\BarajaDeCartas.exe
+D:\Rodrigo\Bootcamp Sonda\C#-.Net\practicas\C#.Net\BarajaDeCartas\bin\Debug\net6.0\BarajaDeCartas.deps.json
+D:\Rodrigo\Bootcamp Sonda\C#-.Net\practicas\C#.Net\BarajaDeCartas\bin\Debug\net6.0\BarajaDeCartas.runtimeconfig.json
+D:\Rodrigo\Bootcamp Sonda\C#-.Net\practicas\C#.Net\BarajaDeCartas\bin\Debug\net6.0\BarajaDeCartas.dll
+D:\Rodrigo\Bootcamp Sonda\C#-.Net\practicas\C#.Net\BarajaDeCartas\bin\Debug\net6.0\BarajaDeCartas.pdb
+D:\Rodrigo\Bootcamp Sonda\C#-.Net\practicas\C#.Net\BarajaDeCartas\obj\Debug\net6.0\BarajaDeCartas.csproj.AssemblyReference.cache
+D:\Rodrigo\Bootcamp Sonda\C#-.Net\practicas\C#.Net\BarajaDeCartas\obj\Debug\net6.0\BarajaDeCartas.GeneratedMSBuildEditorConfig.editorconfig
+D:\Rodrigo\Bootcamp Sonda\C#-.Net\practicas\C#.Net\BarajaDeCartas\obj\Debug\net6.0\BarajaDeCartas.AssemblyInfoInputs.cache
+D:\Rodrigo\Bootcamp Sonda\C#-.Net\practicas\C#.Net\BarajaDeCartas\obj\Debug\net6.0\BarajaDeCartas.AssemblyInfo.cs
+D:\Rodrigo\Bootcamp Sonda\C#-.Net\practicas\C#.Net\BarajaDeCartas\obj\Debug\net6.0\BarajaDeCartas.csproj.CoreCompileInputs.cache
+D:\Rodrigo\Bootcamp Sonda\C#-.Net\practicas\C#.Net\BarajaDeCartas\obj\Debug\net6.0\BarajaDeCartas.dll
+D:\Rodrigo\Bootcamp Sonda\C#-.Net\practicas\C#.Net\BarajaDeCartas\obj\Debug\net6.0\refint\BarajaDeCartas.dll
+D:\Rodrigo\Bootcamp Sonda\C#-.Net\practicas\C#.Net\BarajaDeCartas\obj\Debug\net6.0\BarajaDeCartas.pdb
+D:\Rodrigo\Bootcamp Sonda\C#-.Net\practicas\C#.Net\BarajaDeCartas\obj\Debug\net6.0\BarajaDeCartas.genruntimeconfig.cache
+D:\Rodrigo\Bootcamp Sonda\C#-.Net\practicas\C#.Net\BarajaDeCartas\obj\Debug\net6.0\ref\BarajaDeCartas.dll
